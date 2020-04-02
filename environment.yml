@@ -1,0 +1,14 @@
+name: uvg
+channels:
+  - defaults
+dependencies:
+  - ipython
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - jupyterlab
+  - scikit-learn
+prefix: /Users/franco/miniconda3/envs/uvg
+
